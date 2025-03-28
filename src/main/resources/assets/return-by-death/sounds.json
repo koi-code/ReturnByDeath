@@ -1,0 +1,10 @@
+{
+  "respawn_sound": {
+    "sounds": [
+      {
+        "name": "return-by-death:respawn_sound",
+        "stream": false
+      }
+    ]
+  }
+}
